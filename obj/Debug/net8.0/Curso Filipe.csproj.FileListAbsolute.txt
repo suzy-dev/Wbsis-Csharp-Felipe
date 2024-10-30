@@ -1,0 +1,14 @@
+C:\Users\Websis\source\repos\Curso Filipe\bin\Debug\net8.0\Curso Filipe.exe
+C:\Users\Websis\source\repos\Curso Filipe\bin\Debug\net8.0\Curso Filipe.deps.json
+C:\Users\Websis\source\repos\Curso Filipe\bin\Debug\net8.0\Curso Filipe.runtimeconfig.json
+C:\Users\Websis\source\repos\Curso Filipe\bin\Debug\net8.0\Curso Filipe.dll
+C:\Users\Websis\source\repos\Curso Filipe\bin\Debug\net8.0\Curso Filipe.pdb
+C:\Users\Websis\source\repos\Curso Filipe\obj\Debug\net8.0\Curso Filipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Websis\source\repos\Curso Filipe\obj\Debug\net8.0\Curso Filipe.AssemblyInfoInputs.cache
+C:\Users\Websis\source\repos\Curso Filipe\obj\Debug\net8.0\Curso Filipe.AssemblyInfo.cs
+C:\Users\Websis\source\repos\Curso Filipe\obj\Debug\net8.0\Curso Filipe.csproj.CoreCompileInputs.cache
+C:\Users\Websis\source\repos\Curso Filipe\obj\Debug\net8.0\Curso Filipe.dll
+C:\Users\Websis\source\repos\Curso Filipe\obj\Debug\net8.0\refint\Curso Filipe.dll
+C:\Users\Websis\source\repos\Curso Filipe\obj\Debug\net8.0\Curso Filipe.pdb
+C:\Users\Websis\source\repos\Curso Filipe\obj\Debug\net8.0\Curso Filipe.genruntimeconfig.cache
+C:\Users\Websis\source\repos\Curso Filipe\obj\Debug\net8.0\ref\Curso Filipe.dll
